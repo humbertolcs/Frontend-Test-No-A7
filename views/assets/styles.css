@@ -1,0 +1,59 @@
+#mainTable{
+    border-spacing: 0;
+    border: 1px solid black;border-collapse: collapse; 
+    height: 500px;
+}
+
+#tableRow{
+    border-spacing: 0;
+    border: 1px solid black;border-collapse: collapse; 
+}
+
+#collumItens{
+    vertical-align: top;
+    background-color: rgb(224, 224, 224);
+    min-height: 500px;
+    border: thin solid black;
+}
+#list{
+    list-style: none;
+    width: 500px;
+}
+#itemDiv{
+    
+    background-color: rgb(161, 161, 161);
+    margin-top: 20px;
+    padding: 10px;
+    width:80% ;
+}
+#itemNumber{
+    background-color: rgb(224, 224, 224);
+    margin: 3;
+    border-radius: 50%;
+    padding: 3%;
+    width:5% ;
+    text-align: center;
+}
+#collumInput{
+    background-color: rgb(196, 196, 196);
+    min-height: 500px;
+    border-spacing: 0;
+}
+
+#divForm{
+    background-color: rgb(161, 161, 161);
+    height:fit-content;
+    border-spacing: 0;
+    border: 1px solid black;border-collapse: collapse; 
+}
+#labelRow{
+    font-weight: lighter;
+}
+#inputDiv{
+    text-align:center;
+}
+#rows{
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    width: 50%;
+}
